@@ -11,8 +11,8 @@
   
   ## Link
 
-  https://jroller33.github.io/Front-End-Company-Website/
-
+  https://jroller33.github.io/Horiseon-Company-Website/
+  
   ## Screenshot
 
   ![Horiseon](./assets/screenshots/screenshot.png)
