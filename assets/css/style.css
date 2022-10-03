@@ -80,8 +80,8 @@
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
     background-position: center;
+    background-size: cover;
   }
   
   .content {
@@ -94,12 +94,12 @@
   .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
+    clear: both;
     width: 20%;
     height: 100%;
-    font-family: var(--bodyFont);
     background-color: var(--asideBlue);
+    font-family: var(--bodyFont);
   }
   
   /* combined the same styles and added color variable */
@@ -111,14 +111,6 @@
   }
   
   /* combined same styles */
-  .benefit-lead h3,
-  .benefit-brand h3,
-  .benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-  }
-  
-  /* combined same styles */
   .benefit-lead img,
   .benefit-brand img,
   .benefit-cost img {
@@ -127,28 +119,36 @@
     max-width: 150px;
   }
   
+  /* combined same styles */
+  .benefit-lead h3,
+  .benefit-brand h3,
+  .benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
   /* combined the same styles and added font and color variables */
-  .search-engine-optimization,
   .online-reputation-management,
+  .search-engine-optimization,
   .social-media-marketing {
     margin-bottom: 20px;
-    padding: 50px;
     height: 300px;
-    font-family: var(--bodyFont);
+    padding: 50px;
     background-color: var(--articleBlue);
+    font-family: var(--bodyFont);
     color: var(--white);
   }
   
   /* combined same styles */
-  .search-engine-optimization img,
   .online-reputation-management img,
+  .search-engine-optimization img,
   .social-media-marketing img {
     max-height: 200px;
   }
   
   /* combined same styles */
-  .search-engine-optimization h2,
   .online-reputation-management h2,
+  .search-engine-optimization h2,
   .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
